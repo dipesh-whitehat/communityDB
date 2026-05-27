@@ -1149,7 +1149,7 @@
         ],
         "description": "Sharkey is an Misskey fork following upstream changes when possible, with added features.",
         "license": "AGPL",
-        "source_code": "https://github.com/transfem-org/Sharkey",
+        "source_code": "https://activitypub.software/TransFem-org/Sharkey",
         "website": "https://joinsharkey.org",
         "apps_url": null,
         "join_url": null,
