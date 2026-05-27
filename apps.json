@@ -612,19 +612,21 @@
         "createdAt": "November 2025"
     },
     {
-    "name": "Tokodon",
-    "slug": "tokodon",
-    "categories": [
-        "client"
-    ],
-    "compatibility": ["Mastodon"],
-    "os": ["desktop", "android"],
-    "description": "Tokodon is a Mastodon client. It allows you to interact with the Fediverse community.",
-    "license": "GPL-3.0",
-    "source_code": "https://invent.kde.org/network/tokodon",
-    "website": "https://apps.kde.org/tokodon/",
-    "forum_url": "https://discuss.kde.org",
-    "donate_url": "https://kde.org/donate/",
-    "logo_source_url": "https://apps.kde.org/app-icons/org.kde.tokodon.svg"
+        "name": "Tokodon",
+        "description": "Tokodon is a Mastodon client. It allows you to interact with the Fediverse community.",
+        "compatibility": ["Mastodon"],
+        "categories": ["client"],
+        "os": ["desktop", "android"],
+        "url": "https://apps.kde.org/tokodon/",
+        "createdAt": "May 2026"
+    },
+    {
+        "name": "Loops for iOS",
+        "description": "The official Loops iOS app.",
+        "compatibility": ["Loops"],
+        "categories": ["official", "client"],
+        "os": ["ios"],
+        "url": "https://apps.apple.com/us/app/loops-by-pixelfed/id6499375182",
+        "createdAt": "January 2026"
     }
 ]
