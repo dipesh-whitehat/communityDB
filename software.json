@@ -1255,12 +1255,9 @@
             "microblogging"
         ],
         "key_features": [
-            "Federated voice messaging",
-            "Real-time audio interactions",
-            "Privacy-focused conversations",
-            "Short-form audio sharing",
-            "Audio discovery feed",
-            "Minimalist UI",
+            "Media attachments",
+            "Markdown/CommonMark formatting",
+            "Content warnings",
             "ActivityPub integration"
         ],
         "description": "Hollo is a federated single-user microblogging software powered by Fedify.",
@@ -1274,8 +1271,8 @@
         "forum_url": "https://github.com/fedify-dev/hollo/discussions",
         "donate_url": "https://github.com/sponsors/dahlia",
         "matrix_url": "https://matrix.to/#/%23hollo-users:matrix.org",
-        "logo_source_url": null,
-        "logo_source_version": null
+        "logo_source_url": "https://rawcdn.githack.com/fedify-dev/hollo/b6e456430aa4a6692e4bf7fa9bdbbb4755e8683e/logo-black.svg",
+        "logo_source_version": 1
     },
     {
         "name": "Kmyblue",
