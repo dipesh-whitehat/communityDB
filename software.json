@@ -1713,5 +1713,33 @@
         "matrix_url": null,
         "logo_source_url": "https://raw.githubusercontent.com/murlog-org/murlog/main/web/public/icon-512.png",
         "logo_source_version": 1
+    },
+    {
+        "name": "JFK Social",
+        "slug": "jfksocial",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [
+            "Free speech / censorship-resistant social network",
+            "Nostr-based content with ActivityPub federation",
+            "Cross-network posting (Nostr, Mastodon, Bluesky)",
+            "Algorithmic and following feeds",
+            "Trust-based follow system",
+            "Premium accounts"
+        ],
+        "description": "A free-speech social network bridging Nostr and the fediverse via ActivityPub.",
+        "license": null,
+        "source_code": null,
+        "website": "https://jfksocial.com",
+        "apps_url": null,
+        "join_url": "https://jfksocial.com",
+        "api_docs_url": "https://api.jfksocial.com",
+        "support_url": null,
+        "forum_url": null,
+        "donate_url": null,
+        "matrix_url": null,
+        "logo_source_url": null,
+        "logo_source_version": null
     }
 ]
