@@ -1739,7 +1739,7 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_source_url": null,
-        "logo_source_version": null
+        "logo_source_url": "https://cdn.jfksocial.com/static/logo.webp",
+        "logo_source_version": 1
     }
 ]
